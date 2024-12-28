@@ -1,6 +1,6 @@
 # Connect Four Game
 
-A Connect Four game where you can play against the computer or watch two bots play. The computer uses a perfect AI with the minimax algorithm.
+A Connect Four game where you can play against the computer. The computer uses a perfect AI with the minimax algorithm.
 
 ## How to Play
 
